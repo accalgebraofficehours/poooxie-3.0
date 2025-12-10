@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "This is interstellar, but modified to be incredibly fast! Made by the Poodleschool team.",
+  "This is interstellar, but modified to be incredibly fast! Made by the Poodleschool team, NOT MADE BY ANYONE AT SUMMIT!",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
