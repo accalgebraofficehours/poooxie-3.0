@@ -90,7 +90,7 @@ input {
 }
 
 #splash {
-   color: var(--text-dark);
+   color: var(--text-primary);
    margin-bottom: 1em;
    margin-top: -2em;
    padding: 0;
